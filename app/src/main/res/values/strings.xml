@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LoginPage</string>
+    <string name="hideText">Hide</string>
+    <string name="showText">Show</string>
+</resources>
